@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navTimeTable"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="시간표" />
+        <item
+            android:id="@+id/navBodyRecord"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="몸의 변화" />
+        <item
+            android:id="@+id/navHowToDo"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="운동방법" />
+        <item
+            android:id="@+id/navPedometer"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="만보계" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="오늘의 날씨" />
+
+        </menu>
+    </item>
+
+</menu>

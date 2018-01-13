@@ -1,2 +1,2 @@
-# Please Take A Look At TermProject_Final_Report.pdf
+## Please take a look at TermProject_Final_Report.pdf
 
